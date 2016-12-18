@@ -3,9 +3,9 @@ Web2Dezine Themes
 
 Built Using:
 
-Bootstrap-sass
-Koala
-NPM
-Bower
-Live-Server
+Bootstrap-sass<br />
+Koala<br />
+NPM<br />
+Bower<br />
+Live-Server<br />
 Font-Awesome
