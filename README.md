@@ -1,4 +1,4 @@
-# bizlight_theme
+# biz_theme
 Web2Dezine Themes
 
 Built Using:
@@ -10,4 +10,4 @@ Bower<br />
 Live-Server<br />
 Font-Awesome
 
-<a href="http://web2dezine.com/bizlight_theme/" target="_blank">Demo</a>
+<a href="http://web2dezine.com/biz_theme/" target="_blank">Demo</a>
