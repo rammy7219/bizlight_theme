@@ -1,5 +1,5 @@
 # biz_theme
-Web2Dezine Themes
+## Biz Themes
 
 Built Using:
 
